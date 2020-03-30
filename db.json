@@ -1,0 +1,200 @@
+[
+    {
+        "id": 1,
+        "series": "Peaky Blinders",
+        "provider": "Netflix",
+        "completed": false,
+        "notes": "I have no idea what the Irish guy is saying. "
+
+    },
+    {
+        "id": 2,
+        "series": "Narcos",
+        "provider": "Netflix",
+        "completed": false,
+        "notes": "All in subtitles."
+
+    },
+    {
+        "id": 3,
+        "series": "What We Do in the Shadows",
+        "provider": "Hulu",
+        "completed": false,
+        "notes": " "
+
+    },
+    {
+        "id": 4,
+        "series": "Outlander",
+        "provider": "Amazon Prime",
+        "completed": false,
+        "notes": "Not quite sure why people would go that far back in time."
+
+    },
+    {
+        "id": 5,
+        "series": "The Wire",
+        "provider": "Amazon Prime",
+        "completed": false,
+        "notes": "The school season is terrible."
+
+    },
+    {
+        "id": 6,
+        "series": "The Tiger King",
+        "provider": "Netflix",
+        "completed": false,
+        "notes": "Carol Baskin killed her husband."
+
+    },
+    {
+        "id": 7,
+        "series": "Black Mirror",
+        "provider": "Netflix",
+        "completed": false,
+        "notes": " "
+
+    },
+    {
+        "id": 8,
+        "series": "Master of None",
+        "provider": "Netflix",
+        "completed": false,
+        "notes": "I had to put one comedy in here."
+
+    },
+    {
+        "id": 9,
+        "series": "The Mandalorian",
+        "provider": "Disney+",
+        "completed": false,
+        "notes": "Baby Yoda"
+
+    },
+    {
+        "id": 10,
+        "series": "Hunters",
+        "provider": "Amazon Prime",
+        "completed": false,
+        "notes": " "
+
+    },
+    {
+        "id": 11,
+        "series": "Santa Clarita Diet",
+        "provider": "Netflix",
+        "completed": false,
+        "notes": " "
+
+    },
+    {
+        "id": 12,
+        "series": "iZombie",
+        "provider": "Netflix",
+        "completed": false,
+        "notes": "People eating brains... It's gonna happen eventually."
+
+    },
+    {
+        "id": 13,
+        "series": "Arrested Development",
+        "provider": "Netflix",
+        "completed": false,
+        "notes": "Season three is a little suspect."
+
+    },
+    {
+        "id": 14,
+        "series": "The Sopranos",
+        "provider": "Amazon Prime",
+        "completed": false,
+        "notes": "We need a movie."
+
+    },
+    {
+        "id": 15,
+        "series": "The Office",
+        "provider": "Netflix",
+        "completed": false,
+        "notes": "That's what she said."
+
+    },
+    {
+        "id": 16,
+        "series": "Breaking Bad",
+        "provider": "Netflix",
+        "completed": false,
+        "notes": " "
+
+    },
+    {
+        "id": 17,
+        "series": "Stranger Things",
+        "provider": "Netflix",
+        "completed": false,
+        "notes": " "
+
+    },
+    {
+        "id": 18,
+        "series": "Sons of Anarchy",
+        "provider": "Hulu",
+        "completed": false,
+        "notes": "Just another friendly biker gang show."
+
+    },
+    {
+        "id": 19,
+        "series": "American Horror Story",
+        "provider": "Netflix",
+        "completed": false,
+        "notes": " "
+
+    },
+    {
+        "id": 20,
+        "series": "The Americans",
+        "provider": "Amazon Prime",
+        "completed": false,
+        "notes": " "
+
+    },{
+        "id": 21,
+        "series": "Yellowstone",
+        "provider": "Amazon Prime",
+        "completed": false,
+        "notes": "Kevin Costner doing Kevin Costner type stuff."
+
+    },{
+        "id": 22,
+        "series": "Justified",
+        "provider": "Netflix",
+        "completed": false,
+        "notes": "Best enjoyed with a glass of Kentucky Bourbon"
+
+    },
+    {
+        "id": 23,
+        "series": "Mad Men",
+        "provider": "Netflix",
+        "completed": false,
+        "notes": " "
+
+    },
+    {
+        "id": 24,
+        "series": "Boardwalk Empire",
+        "provider": "Amazon Prime",
+        "completed": false,
+        "notes": " "
+
+    },
+    {
+        "id": 25,
+        "series": "Friends",
+        "provider": "Netflix",
+        "completed": false,
+        "notes": "Terrible series!"
+
+    }
+]

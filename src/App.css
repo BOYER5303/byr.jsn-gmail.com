@@ -1,38 +1,112 @@
-.App {
-  text-align: center;
+
+
+.title {
+  font-size: 80px;
+  font-family: 'Cinzel', serif;
+  font-weight: bold;
+  text-shadow: 0 0 5px #FF0000; 
+  background-color: antiquewhite;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body{
+  padding: 30 30 30 30;
+  background-color: black;
+  color: black;
+  font-size: large;
+}
+ .series {
+  font-size: 30px;
+  align-self: stretch;
+  font-family: 'Cinzel', serif;
+  font-weight: bold;
+  text-shadow: 0 0 5px #FF0000; 
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.provider {
+  font-size: 20px;
+  align-self: center;
+  font-family: 'Cinzel', serif;
+  font-weight: bold;
+  text-shadow: 0 0 5px #FF0000; 
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.episode {
+  font-size: 20px;
+  align-self: center;
+  
+}
+
+.delete {
+  align-self: flex-end;
+}
+.noteInput {
+  height: 30px;
+  
+}
+.seriesReturn{
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+	
+	flex-wrap: nowrap;
+	justify-content: space-around;
+	align-items: center;
+	align-content: space-around;
+  background: #777; 
+	border-top: 3px solid #888; 
+	margin: 5%;
+	padding: 2% 2% 4% 2%; 
+	border-radius: 10px; 
+	border-bottom-left-radius: 50% 2%; 
+	border-bottom-right-radius: 50% 2%; 
+	transition: margin-right 1s;
+  }
+
+/* .seriesReturn {
+  
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    border: 8px solid black;
+} */
+
+  /* padding: 10 10 10 10;
+  background-color: antiquewhite;
+  border: 8px solid rgba(28,110,164,0.68);    
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	align-items: center;
+  align-content: center;
+  padding: 10 10 10 10;
+  font-weight: bold;
+  margin: 10 10 10 10; */
+
+
+
+.myButton {
+	box-shadow:inset 0px 1px 0px 0px #54a3f7;
+	background:linear-gradient(to bottom, #007dc1 5%, #0061a7 100%);
+	background-color:#007dc1;
+	border-radius:10px;
+	border:1px solid #124d77;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:13px;
+	padding:6px 20px;
+	text-decoration:none;
+  text-shadow:0px 1px 0px #154682;
+  
 }
+
+
 
 .App-link {
   color: #61dafb;
+  font-size: 70px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}

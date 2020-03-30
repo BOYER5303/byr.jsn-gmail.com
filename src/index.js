@@ -3,9 +3,11 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import './App.css';
 
 ReactDOM.render(
   <React.StrictMode>
+    <link href="https://fonts.googleapis.com/css?family=Cinzel&display=swap" rel="stylesheet"/>
     <App />
   </React.StrictMode>,
   document.getElementById('root')
